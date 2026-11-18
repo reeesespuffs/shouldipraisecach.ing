@@ -16,7 +16,7 @@ section {
 
 h1 {
     color: #404040;
-    font-size: 15em;
+    font-size: 10em;
     line-height: 0.8em;
     margin: 0;
     padding: 0;
@@ -25,7 +25,7 @@ h1 {
 
 h1 sup {
     color: #C0C0C0;
-    font-size: 8%;
+    font-size: 5%;
     font-weight: normal;
     line-height: normal;
     vertical-align: top;
@@ -33,7 +33,7 @@ h1 sup {
 
 aside {
     color: #C0C0C0;
-    font-size: 1em;
+    font-size: 0.6em;
     margin-top: 1em;
 }
 
